@@ -5,7 +5,7 @@ O que eu sei sobre:
 *  Tipos de dados II: o básico sobre tipagem
 *  Aula Carreira - Gerenciamento de tempo: noções basica de gerencia do tempo e procrastinação.
 *  Tipos Utilitários - o basico que foi ensinado até o momento sobre typescript
-*  Métodos de Strings
+*  Métodos de Strings - o basico sobre strings que já foi apresentado.
 *  Aula Carreira
 *  Métodos de Arrays
 *  Métodos de Arrays II
@@ -17,7 +17,7 @@ O que eu sei sobre:
 *  Tipos de dados II: novas ferramentas para manipulação dos tipos de dados
 *  Aula Carreira - Gerenciamento de tempo: aprofundamentos sobre gerencia de tempo e tecnicas de estudo e evitar a procrastinação.
 *  Tipos Utilitários - novas ferramentas para facilitar o trabalho com objetos, arrays e loops.
-*  Métodos de Strings
+*  Métodos de Strings - novas ferramentas para auxiliar na operação e manipulação de strings.
 *  Aula Carreira
 *  Métodos de Arrays
 *  Métodos de Arrays II
@@ -30,6 +30,7 @@ O que eu sei sobre:
 *  Aula  - Gerenciamento de tempo: Aprendi mais sobre os conceitos relacionados ao gerenciamento do temmpo, como produtividade. Também sobre ferramentas para gerenciamento como Trelo, Notion, etc... e
   sobre procrastinação.
 *  Tipos Utilitários - Aprendi conceitos como Partial, Pick, Omit e Required, mostrando como eles podem ser utilizados para manipular e definir tipos.Entendi a importância de compreender e interpretar os tipos encontrados nos códigos.
+*  Métodos de Strings - Aprendi como manipular strings em Javascript, por metodos nativos do Javascript, como toLowerCase(), toUpperCase(), e trim().
 *  Aula Carreira
 *  Métodos de Arrays
 *  Métodos de Arrays II
