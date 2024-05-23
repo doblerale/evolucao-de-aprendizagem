@@ -6,9 +6,9 @@ O que eu sei sobre:
 *  Aula Carreira - Gerenciamento de tempo: noções basica de gerencia do tempo e procrastinação.
 *  Tipos Utilitários - o basico que foi ensinado até o momento sobre typescript
 *  Métodos de Strings - o basico sobre strings que já foi apresentado.
-*  Aula Carreira
-*  Métodos de Arrays
-*  Métodos de Arrays II
+*  Aula Carreira - curriculo e carta de apresentação: sei basico sobre curriculos.
+*  Métodos de Arrays - o basico sobre arrays e loops ensinado anteriormente.
+*  Métodos de Arrays II - todo o conteudo passado anteriormente em arrays e loops e metodos de arrays
 *  Aula Carreira
 *  Métodos de Arrays III
 
@@ -18,9 +18,9 @@ O que eu sei sobre:
 *  Aula Carreira - Gerenciamento de tempo: aprofundamentos sobre gerencia de tempo e tecnicas de estudo e evitar a procrastinação.
 *  Tipos Utilitários - novas ferramentas para facilitar o trabalho com objetos, arrays e loops.
 *  Métodos de Strings - novas ferramentas para auxiliar na operação e manipulação de strings.
-*  Aula Carreira
-*  Métodos de Arrays
-*  Métodos de Arrays II
+*  Aula Carreira - curriculo e carta de apresentação: varias dicas sobre como montar um curriculo altamente eficiente e atrativo
+*  Métodos de Arrays - Espero aprender sobre diferentes metodos de manipulação de arrays em Javascript,
+*  Métodos de Arrays II - aprofundamentos nos metodos de manipulação de arrays.
 *  Aula Carreira
 *  Métodos de Arrays III
 
@@ -31,8 +31,8 @@ O que eu sei sobre:
   sobre procrastinação.
 *  Tipos Utilitários - Aprendi conceitos como Partial, Pick, Omit e Required, mostrando como eles podem ser utilizados para manipular e definir tipos.Entendi a importância de compreender e interpretar os tipos encontrados nos códigos.
 *  Métodos de Strings - Aprendi como manipular strings em Javascript, por metodos nativos do Javascript, como toLowerCase(), toUpperCase(), e trim().
-*  Aula Carreira
-*  Métodos de Arrays
-*  Métodos de Arrays II
+*  Aula Carreira - curriculo e carta de apresentação: orientações sobre montagem de curriculo, sobre nossas qualidades e defeitos, sobre habilidades requeridas e indispensáveis, qual nosso diferencial. Vários insights sobre curriculo em geral.
+*  Métodos de Arrays - novas ferramentas para manipulação de arrays, como push(), pop(), e splice().
+*  Métodos de Arrays II - novas ferramentas para manipulação de arrays como every(), some(), e map().
 *  Aula Carreira
 *  Métodos de Arrays III
