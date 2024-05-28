@@ -10,7 +10,7 @@
 *  Métodos de Arrays - o basico sobre arrays e loops ensinado anteriormente.
 *  Métodos de Arrays II - todo o conteudo passado anteriormente em arrays e loops e metodos de arrays
 *  Aula Carreira - linkedin básico sem aplicar as dicas da prof
-*  Métodos de Arrays III
+*  Métodos de Arrays III - todo o conteudo passado anteriormente sobre arrays, loops, e metodos de arrays 1 e 2.
 
   O que eu espero aprender em:
 *  Funções (Tipagens em funções):Eu pensava que seria algo relacionado a funções de 1º e 2ª graus da matemática kkkk. 
@@ -22,7 +22,7 @@
 *  Métodos de Arrays - Espero aprender sobre diferentes metodos de manipulação de arrays em Javascript,
 *  Métodos de Arrays II - aprofundamentos nos metodos de manipulação de arrays.
 *  Aula Carreira - varias dicas sobre construção do perfil no linkedin
-*  Métodos de Arrays III
+*  Métodos de Arrays III - ferramentas mais avançadas para manipulação de arrays
 
   O que eu aprendi com:
 *  Funções (Tipagens em funções):aprendi a organizar e reutilizar meus codigos de maneira mais eficiente. As funções permitem resolver problemas de forma direta.Ao criar uma função, você pode reutilizá-la em diferentes pares do seu código, evitando repetições e facilitando possiveis ajustes futuros.
@@ -35,4 +35,4 @@
 *  Métodos de Arrays - novas ferramentas para manipulação de arrays, como push(), pop(), e splice().
 *  Métodos de Arrays II - novas ferramentas para manipulação de arrays como every(), some(), e map().
 *  Aula Carreira - diversas dicas sobre construção de perfil no linkedin, como foto de perfil, capa, experiencias anteriores, palavras chaves, etc...
-*  Métodos de Arrays III
+*  Métodos de Arrays III - novos métodos de manipulação e ordenação de arrays. como filtros, mapeamentos e reduções, alem de métodos de ordenação.
